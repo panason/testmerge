@@ -23,7 +23,7 @@
 
     <groupId>com.mycompany</groupId>
     <artifactId>mavenproject1</artifactId>
-    <name>Example Groovy Module - mavenproject1</name>
+    <name>Groovy Module</name>
     <packaging>groovy-jar</packaging>
     <version>1.0-SNAPSHOT</version>
 
