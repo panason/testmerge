@@ -22,7 +22,7 @@ package com.mycompany.mavenproject1
 class MyExampleClass
     extends MySupportClass
 {
-    //
+    должно попасть во все ветки//
     // TODO: Add something here
     //
 }
