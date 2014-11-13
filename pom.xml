@@ -29,6 +29,8 @@
 
     <description>
         An example Groovy-based module.111
+        
+        commit 1
     </description>
     
     <build>
