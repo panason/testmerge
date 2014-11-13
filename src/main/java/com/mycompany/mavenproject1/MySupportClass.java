@@ -21,7 +21,7 @@ package com.mycompany.mavenproject1;
  */
 public abstract class MySupportClass
 {
-    //
+   Было в мажоре //
     // TODO: Add something here
     //
 }
